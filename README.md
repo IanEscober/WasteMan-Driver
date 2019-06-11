@@ -19,7 +19,10 @@ WasteMan-Driver enables the IoT-based devices to monitor its sensors and send da
 - [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - Sending/Receving of data to the broker
 
 ## Requirements
-- [Arduino Sketch](https://www.arduino.cc/en/Main/Software) - For the arduino harware libraries
+- [Arduino Sketch](https://www.arduino.cc/en/Main/Software) - For the arduino hardware libraries
+
+## Installation/Operation
+- [WasteMan-Driver Wiki](https://github.com/IanEscober/WasteMan-Driver/wiki)
 
 ## Contribution
 Yeet a Pull Request
